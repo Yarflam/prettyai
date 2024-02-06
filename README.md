@@ -1,0 +1,2 @@
+# prettyai
+PrettyAI client
