@@ -1,2 +1,3 @@
-# prettyai
-PrettyAI client
+# Pretty ChatAI client
+
+By Yarflam
