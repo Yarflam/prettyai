@@ -1,6 +1,6 @@
-# Pretty ChatAI Client
+# PrettyAI Chat
 
-[PrettyAI - Chatbot online](https://yarflam.github.io/prettyai/)
+[PrettyAI - Chat online](https://yarflam.github.io/prettyai/)
 
 ## Description
 
